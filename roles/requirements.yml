@@ -1,0 +1,6 @@
+- name: role-server-provision-configure-yum
+  src: https://github.com/sergiu1103/role-server-provision-configure-yum.git
+  scm: git
+  version: develop
+  #version: acceptance
+  #version: master
